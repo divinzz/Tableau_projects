@@ -1,101 +1,92 @@
-# 📊 HR Analytics Dashboard – Tableau
+# 🏪 Nike Retail Analytics Dashboard – Tableau
 
-A **professional HR dashboard** built in **Tableau**, simulating real-world human resources data. This dashboard enables detailed and interactive analysis of workforce trends, employee demographics, performance levels, and compensation across departments and locations.
+A professional **Retail Analytics Dashboard** built in **Tableau** to visualize and analyze **Nike’s sales performance** across products, geographies, sales methods, and retail partners. The dashboard enables stakeholders to gain actionable insights and make data-driven decisions with interactive visualizations and filters.
+
+---
 
 ## 🚀 Overview
 
-This project provides HR managers and analysts with a comprehensive visual tool to monitor and evaluate key workforce metrics, spot trends, and make informed strategic decisions.
+This dashboard provides a centralized view of key sales metrics and helps identify trends, top-performing segments, and channel efficiency for Nike retail operations.
 
 ---
 
-## 🎯 Key Features
+## 📊 Key Metrics
 
-### ✅ Employee Overview
-- **Snapshot Metrics**:
-  - Total Active Employees: **7,984**
-  - Total Hires: **8,950**
-  - Total Terminations: **966**
-- **Visualizations**:
-  - Line charts for **hiring and termination trends** over time
-  - Dynamic filters for timeline and department views
-
-### 🏢 Departmental Insights
-- Horizontal bar chart for **employee distribution** by department:
-  - Operations, Sales, Customer Service, IT, Marketing, Finance, HR
-- Department-wise **attrition rates** visualized clearly
-
-### 👥 Demographics Analysis
-- Gender breakdown: **54% Male**, **46% Female**
-- Age distribution with a peak in **35–44** age group
-- Educational background distribution by **age and performance**
-
-### 🎓 Education & Performance Matrix
-- Performance levels: Excellent → Good → Average → Needs Improvement
-- Educational levels: High School → Bachelor → Master → PhD
-- 🔍 Key Insight: **50% of Bachelor's degree holders rated “Good”**
-
-### 💰 Income & Gender Analysis
-- Salary comparison by gender across education levels:
-  - **Bachelor**: Male **$74K** | Female **$66K**
-  - **Master**: Male **$86K** | Female **$80K**
-  - **PhD**: Male **$93K** | Female **$80K**
-
-### 📈 Age vs Salary Correlation
-- Scatter plot showing relationship between **age** and **salary**
-- Top earners: **Finance Manager**, **IT Manager**
-
-### 🌍 Location-Based Metrics
-- Geographical map showing employee **count and performance**
-- Regional breakdown: **New York**, **Michigan**, **Illinois**
-- HQ vs Branch: **70% HQ**, **30% Branch**
-
-### 📋 Employee Details View
-- Tabular view includes:
-  - ID, Name, Age, Gender, Department, Role, Location
-  - Salary, Hire Date, Status, Length of Employment
+| Metric                  | Value         |
+|-------------------------|---------------|
+| **Total Sales**         | $2.60M        |
+| **Units Sold**          | 79.71K        |
+| **Avg. Price/Unit**     | $117.88       |
 
 ---
 
-## 📌 Key Metrics Summary
+## 🔍 Dashboard Insights
 
-| Metric                  | Value              |
-|-------------------------|--------------------|
-| Total Employees Tracked | 8,950              |
-| Active Employees        | 7,984              |
-| Terminations            | 966                |
-| Avg Salary Range        | $62K–$93K          |
-| Top Earning Role        | Finance Manager    |
-| Longest Tenure          | 9 years            |
+### 1. 🛒 Retailer-Wise Sales Performance
+- Sales comparison across **six major retail partners**
+- **Kohl’s and Walmart** contribute over **$1.3M**
+- Identifies **top-performing retail channels**
+
+### 2. 👟 Product-Wise Unit Sales
+- Highest sales: **Men’s Street Footwear (37.31K units)**
+- Followed by: Men’s Athletic Footwear, Women’s Apparel
+- Bar chart visualization of **product demand & category performance**
+
+### 3. 🗺️ Sales Distribution by Country (US Map)
+- **Geographical breakdown** of sales by U.S. state
+- Top states: **Minnesota, California, Montana**
+- Supports regional strategy and **inventory planning**
+
+### 4. 📈 Sales Trends Over Time
+- Line graph tracking **units sold** & **revenue** from **Feb 2020 – Dec 2021**
+- Detects **seasonal spikes**, **promotions**, and **trend shifts**
+
+### 5. 🧾 Sales Method Analysis
+- Breakdown by **In-Store, Outlet, and Online**
+- In-Store leads with **2,050 units**
+- Helps evaluate **channel effectiveness**
 
 ---
 
-## 📊 Visualizations Used
+## 🎛️ Interactive Filters
 
-- ✅ KPI Metrics
-- 📈 Line Charts
-- 🍩 Donut Charts
-- 📊 Bar Charts
-- 🧮 Matrix Charts
-- 🔁 Sparklines
-- 🗺️ Geographical Maps
-- 🔍 Scatter Plots
-- 📋 Tabular Reports
+Users can drill down and customize analysis using filters:
+- **Product**
+- **Region**
+- **Retailer**
+- **Sales Method**
+
+---
+
+## 📈 Business Impact
+
+- Informs **regional and retail partner strategy**
+- Assists with **inventory**, **pricing**, and **promotion** decisions
+- Supports understanding of **consumer behavior** and **sales efficiency**
+
+---
+
+## 🖼️ Visual Elements Used
+
+- 📊 Bar Charts  
+- 📈 Line Graphs  
+- 🗺️ Maps  
+- 📋 Tables  
+- 🔀 Interactive Filters  
 
 ---
 
 ## 🛠️ Tools & Skills
 
-- **Tool**: Tableau
+- **Tool**: Tableau  
 - **Skills**:
-  - HR Analytics
-  - Employee Demographics
-  - Workforce Planning
-  - Salary Benchmarking
-  - Dashboard Design
-  - Performance Monitoring
-  - Data Storytelling
+  - Retail Analytics  
+  - Dashboard Design  
+  - Trend Analysis  
+  - Business Intelligence  
+  - Data Cleaning  
+  - Data Visualization  
 
 ---
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b106186c-6f0b-4149-b91f-b68688683508" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6f2424ad-c379-4115-864e-bfaebbdecbec" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c27ea080-b152-43c6-9fbf-3aeb1ac05df9" />
