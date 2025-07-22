@@ -99,6 +99,6 @@ This project provides HR managers and analysts with a comprehensive visual tool 
 
 ## 🖼️ Dashboard Preview
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6f2424ad-c379-4115-864e-bfaebbdecbec" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b106186c-6f0b-4149-b91f-b68688683508" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/642f2b38-a09b-49a9-a2bf-82951271224f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/33741f73-a3db-4996-9558-6e2e2903d68e" />
 
