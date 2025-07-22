@@ -67,7 +67,7 @@ It’s useful for sports analysts, Olympic committees, and data visualization le
 
 ## 🖼️ Dashboard Preview
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f84b74bd-34ad-4fc5-84d1-3887954d89fd" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/98528c16-4176-4c92-84c7-ff84c15f4db2" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ccf470d1-3a00-4fc0-9282-dde3b127f2a4" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a90bfe48-88c1-42ab-a64a-b42200e6a077" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fba345af-3295-40e9-9bbf-792be1315ff9" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/49f69d92-d8ab-4bd5-80fd-8add0ebac173" />
 
