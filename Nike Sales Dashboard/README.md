@@ -90,4 +90,4 @@ Users can drill down and customize analysis using filters:
 ---
 ## 🖼️ Dashboard Preview
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c27ea080-b152-43c6-9fbf-3aeb1ac05df9" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f249e685-0002-47fa-a1cd-ddd949057455" />
