@@ -88,5 +88,6 @@ Users can drill down and customize analysis using filters:
   - Data Visualization  
 
 ---
+## 🖼️ Dashboard Preview
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c27ea080-b152-43c6-9fbf-3aeb1ac05df9" />
