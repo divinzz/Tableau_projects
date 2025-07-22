@@ -96,6 +96,7 @@ This project provides HR managers and analysts with a comprehensive visual tool 
   - Data Storytelling
 
 ---
+## 🖼️ Dashboard Preview
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6f2424ad-c379-4115-864e-bfaebbdecbec" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b106186c-6f0b-4149-b91f-b68688683508" />
